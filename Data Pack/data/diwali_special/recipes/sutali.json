@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GTG"
+        ],
+    "key": {
+        "T": {
+            "item": "minecraft:tnt"
+        },
+        "G": {
+            "item": "minecraft:gunpowder"
+        }
+    },
+    "result": {
+        "item": "minecraft:structure_void",
+        "count": 1
+    }
+}
