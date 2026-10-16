@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    " / ",
+    "PPP"
+  ],
+  "key": {
+    "#": "minecraft:gunpowder",
+    "/": "minecraft:stick",
+    "P": "minecraft:paper"
+  },
+  "result": {
+    "id": "minecraft:structure_void",
+    "count": 1
+  }
+}
