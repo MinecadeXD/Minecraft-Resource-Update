@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "chakri": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "diwali_special:chakri"
+      }
+    }
+  },
+  "rewards": {
+    "function": "diwali_special:recipe/chakri"
+  }
+}
