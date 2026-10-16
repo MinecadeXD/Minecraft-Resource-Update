@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "skyshot": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "diwali_special:skyshot"
+      }
+    }
+  },
+  "rewards": {
+    "function": "diwali_special:recipe/skyshot"
+  }
+}
