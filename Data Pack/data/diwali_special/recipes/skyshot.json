@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "G",
+        "G",
+        "G"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:gunpowder"
+        }
+    },
+    "result": {
+        "item": "minecraft:structure_void",
+        "count": 1
+    }
+}
