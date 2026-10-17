@@ -10,3 +10,4 @@ scoreboard objectives add raycast dummy
 scoreboard objectives add rc_detect minecraft.used:minecraft.carrot_on_a_stick
 scoreboard objectives add give_all trigger
 scoreboard players enable @a give_all
+scoreboard objectives add placement_distance dummy
