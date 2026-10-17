@@ -12,6 +12,14 @@
   },
   "result": {
     "id": "minecraft:structure_void",
-    "count": 1
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Anar",
+        "color": "gold",
+        "bold": true
+      },
+      "minecraft:item_model": "minecraft:fire_crackers/anar"
+    }
   }
 }
