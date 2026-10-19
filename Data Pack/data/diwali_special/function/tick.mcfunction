@@ -3,7 +3,7 @@ scoreboard players enable @a give_all
 execute as @a[scores={give_all=1..}] run function diwali_special:give_all
 
 # Phuljadi
-execute as @a if items entity @s weapon.mainhand minecraft:stick[minecraft:custom_data~{phuljadi:1b}] at @s rotated as @s anchored eyes run function diwali_special:phuljadi/start
+execute as @a if items entity @s weapon.mainhand minecraft:stick[minecraft:custom_data~{phuljadi:1b}] at @s rotated as @s run function diwali_special:phuljadi/start
 execute as @a[tag=phuljadi_lit] at @s run function diwali_special:phuljadi/main
 execute as @e[type=armor_stand] at @s if entity @a[distance=..2,tag=phuljadi_lit] run function diwali_special:phuljadi/ignition
 
