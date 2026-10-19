@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "phuljadi": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "diwali_special:phuljadi"
+      }
+    }
+  },
+  "rewards": {
+    "function": "diwali_special:recipe/phuljadi"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "anar": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "diwali_special:anar"
+      }
+    }
+  },
+  "rewards": {
+    "function": "diwali_special:recipe/anar"
+  }
+}

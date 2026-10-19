@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G",
+    "G",
+    "G"
+  ],
+  "key": {
+    "G": "minecraft:gunpowder"
+  },
+  "result": {
+    "id": "minecraft:structure_void",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Skyshot",
+        "color": "gold",
+        "bold": true
+      },
+      "minecraft:item_model": "minecraft:fire_crackers/skyshot"
+    }
+  }
+}

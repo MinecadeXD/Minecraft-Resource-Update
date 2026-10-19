@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "sutali": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "diwali_special:sutali"
+      }
+    }
+  },
+  "rewards": {
+    "function": "diwali_special:recipe/sutali"
+  }
+}

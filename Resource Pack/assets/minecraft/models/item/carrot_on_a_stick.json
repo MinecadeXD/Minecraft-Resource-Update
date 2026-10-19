@@ -1,12 +1,6 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-     "layer0": "item/carrot_on_a_stick"
-    },
-    "overrides": [
-     {"predicate": {"custom_model_data":1},"model": "item/fire_crackers/chakri"},
-     {"predicate": {"custom_model_data":2},"model": "item/fire_crackers/anar"},
-     {"predicate": {"custom_model_data":3},"model": "item/fire_crackers/sutali"},
-     {"predicate": {"custom_model_data":4},"model": "item/fire_crackers/skyshots"}
-    ]
-   }
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/carrot_on_a_stick"
+  }
+}

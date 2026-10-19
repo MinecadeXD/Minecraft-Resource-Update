@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    " / ",
+    "PPP"
+  ],
+  "key": {
+    "#": "minecraft:gunpowder",
+    "/": "minecraft:stick",
+    "P": "minecraft:paper"
+  },
+  "result": {
+    "id": "minecraft:structure_void",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Anar",
+        "color": "gold",
+        "bold": true
+      },
+      "minecraft:item_model": "minecraft:fire_crackers/anar"
+    }
+  }
+}

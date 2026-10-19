@@ -1,11 +1,6 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-     "layer0": "item/stick"
-    },
-    "overrides": [
-     {"predicate": {"custom_model_data":1},"model": "item/fire_crackers/phuljadi/main"},
-     {"predicate": {"custom_model_data":2},"model": "item/fire_crackers/phuljadi/animated"},
-     {"predicate": {"custom_model_data":3},"model": "item/fire_crackers/phuljadi/end"}
-    ]
-   }
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/stick"
+  }
+}
